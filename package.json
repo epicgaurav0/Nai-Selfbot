@@ -1,0 +1,17 @@
+{
+  "name": "sexiest",
+  "version": "1.0.0",
+  "description": "This is for learning purpose",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js-selfbot-v13": "^3.7.1",
+    "nodemon": "^3.1.11"
+  }
+}

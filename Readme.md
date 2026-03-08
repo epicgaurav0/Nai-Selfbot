@@ -1,9 +1,9 @@
-# This code is only made purpose for auto drop in private channel ... this is the way  exploite to  the bot.
-# but you can do it... Until you get catch/reported or get blacklisted from bot....
+# This code is only made purpose for auto drop in private channel ... this is the way  exploite to  the bot. But you can do it... Until you get catch/reported or get blacklisted from bot....
 
 
 
 # If you are running this file in your personal device to make sure install some mandatory packages...
+
 1. seflbot package, simply type in terminal also you can add version which is the last version btw ...(Big shotout to Akeno who made this package of selfbot...)
 `npm install discord.js-selfbot-v13`
 2. Chalk file which make your console text beautiful this has a specific persion which is mention in `package.json((chalk": "^4.1.2")) file just copy and type in terminal 

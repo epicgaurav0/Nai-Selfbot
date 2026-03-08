@@ -1,4 +1,3 @@
-// prettier-ignore
 const chalk = require('chalk');
 const { Client } = require("discord.js-selfbot-v13");
 const fs = require('fs');
@@ -113,5 +112,4 @@ tokens.forEach(async(token, index) => {
 });
 //if button not clicked this will trigger for not crashing the process  if catch is not define
 process.on("unhandledRejection", () => {});
-
 process.on("uncaughtException", () => {});
